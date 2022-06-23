@@ -1,1 +1,1 @@
-<h1>Ciao, sono una nuova homepage.</h1>
+<h1>Ciao {{$nome}}, sono una nuova homepage.</h1>
