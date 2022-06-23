@@ -23,3 +23,7 @@ $data = [
 ];
     return view('homepage', $data);
 });
+
+Route::get('/landing', function() {
+    return view('landing');
+});
